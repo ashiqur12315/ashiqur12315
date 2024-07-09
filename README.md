@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ashiqur12315">
-    https://github.com/ashiqur12315/firstweb/blob/main/title.png
+    <img src="https://github.com/ashiqur12315/firstweb/blob/main/title.png">
 </p>
 
 <p align="center">
