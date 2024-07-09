@@ -27,7 +27,7 @@
   <p align="left">
     <a href="https://github.com/ashiqur12315/MedVenture-Client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ashiqur12315&repo=MedVenture-Client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/ashiqur12315/Jobjet-Client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ashiqur12315&repo=Jobjet-Client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/ashiqur12315/Jobjet-Client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ashiqur12315&repo=Jobjet-Client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/ashiqur12315/CraftoPia-Client-side"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ashiqur12315&repo=CraftoPia-Client-side&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     
   </p>
 
