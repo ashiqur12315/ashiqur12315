@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/mdashiqur-rahman"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:ashiqur12315@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://web.facebook.com/profile.php?id=100014424450293"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
